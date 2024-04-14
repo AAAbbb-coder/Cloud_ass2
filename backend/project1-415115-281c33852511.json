@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "project1-415115",
+  "private_key_id": "281c33852511fb284874824a2ea4a692c396464e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC937khHWObXS9w\nZ7jqLyLkxw0BBgW1Y7EeWymaMTfR+KBEeIixmeHNMLqyn2v2zaBjer5YTSOylGjX\nTLHxwdKWkHoBPTnAlO6G9I1nOwGpnpewuXX1KBacIhagbQlCAJrHb1IYRtYPEYpB\n4dvGn8mRgbFKZ+9MtA/ZVdzt2vOnhJzDfA5GeN1Wx5L3NmP+Y6JTxzn+f6bKRTzf\nxQiDWPHutl5CPbTxZ7q/jyDbNAsgS78f7k+3bjwQMVH0JST1J6RennfS2jquKl4B\nMY8NeUFuhDnaAE8YjrLa+iIg9Fw7Srfv07kcfMnv394RGCHE7VQ25nKh6DAf93sp\nZi2UEY8VAgMBAAECggEAEbtKHmPQeMKZyslA7UvEGjHVjs4pa9BYytEwIChvAlKR\n4vsPpuhMPD2L/eDh8/0teITOsE/Z4NQ3uz18E6vqVum8nw+A7HFsGhnN98E8rUK0\nf0o+kAuzmtabHtW36txEGBJXDBHXbTZR30ewnsquyAIg1KZCpHrfTQhV9rd/EBpq\nydcQ5QVr4rZZsK6ilJJu/0AzYL0Zfi/XFr3r45Zy5Yd1rqHsCAN34ZOHs69TRDqh\nD6pJxViEhOzT7QlDWfrVAM2lswCo8bAVfiFayzrkBk7Eaopc6uGy4WRWcNHEhSQu\nh9B2VD1eugGuuVecAOoeOtjRGJ5y/CGKKo2AzSemqQKBgQDqCWlJyrXhSA9NHZLI\nFn38yFJsIW1vGiroiUP7jESQ7I/Gu5sQCi7ge8DP8bxQy/G/ctyMKtavKA6N1C5q\nr6agUWrNl86hctVyFq6EPFJP364XgAnFEOYE+wsvSk2enYRjaw0AKnrUZRUCWc4X\nI9atqeuyP4jwVTc0ujKJxUBLmQKBgQDPsVOqM31tjZtSPY2uElTS06IeqwOWvcb5\nk9BHTgwruFG6oGMEMN8SiwW8ye2PdAJwma2DsU4jB/k8nfwWGx/JWasQW9g5oQPp\n033j3F1nZqtFjC1AnxKb59nKWj69vt+ZBfFJiZswM31vTmld8JwLrsOv1ViKtrQs\nn1bNfmIs3QKBgGvBv4+xXQMIKbto9W9ZI9Mi7QhKb9eq5bzBjuKgV+Wediibsq60\n8ZZ8hG96LynIbVun6DJFeymUuPbGjkSi8YZ5VkKpNgOSGwL3vIy4NXH/XGoHkvgA\natg6OpEglhKFFjKsVIUSChIHJKA7dy+iWbMGPLaKmGOH6O5HGQPkJVFpAoGBALio\nFJbSyMXKjToFeB44Nipr90wFCF/Rw0LK5PdAsRl9+0xOpTpoqSy3ZhaAAjL1FeY+\n/EKGNc53nGUEociVvSEsFCerQQeb3PrcCqW4m2L/qW9gPiuiQs1SyhRbQEU7m1lW\nKz0Sl2O3o+J+eLgI4PSSIXIH4X0TDAZQdMCniWoRAoGAOhLe5kKN5Dn+xzd9XNdS\nZ99Zp97Kv/jE1tdeMLWmQHSll1AvPCDeDEz4iCdJ6sQVeDJlvVlFCzHSmNIYM4SJ\nCzBmlyfwli+kiT77KLsh8bpWaVenYv7SX5gp0XnVsweMWyPlZjp5zSvepWhGK3i8\nz+yhbyyWphXZMJ2K8www3hM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "movie-dataset-csv-bucket@project1-415115.iam.gserviceaccount.com",
+  "client_id": "115777742745913533434",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/movie-dataset-csv-bucket%40project1-415115.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
